@@ -5,3 +5,5 @@
 - Upload user health data and spit out diabetes prediction in seconds.
 - Powered by a trained ML model — probably RandomForest or similar.
 - Lightweight, easy to run, and ready to be upgraded.
+
+![dia](https://github.com/user-attachments/assets/238fbe6b-0fcf-413b-9729-39b39324362f)
